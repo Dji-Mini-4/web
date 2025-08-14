@@ -1,2 +1,4 @@
 # web
-My big repo for my web projects
+Hello!
+This is my repo for my web projects.
+🫠
