@@ -5,6 +5,13 @@ body {
     text-align: center;
     font-family:"consolas"
 }
+.round-btn {
+    border-radius: 5px;
+    height: 30px;
+    min-width: 160px;
+    font-family: "Nata Sans", sans-serif;
+    font-size: 14px;
+}
 #dark-mode {
     position:absolute;
     top:6px;

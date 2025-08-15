@@ -1,8 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+    <!-- Don't Click Me-->
     <head>
         <title>Don't Click Me</title>
-        <link rel="stylesheet" href="style.css"> <!-- Link to CSS -->
+        <meta charset="UTF-8"> <!-- UTF-8 encoding-->
+        <link href="https://fonts.googleapis.com/css2?family=Nata+Sans&display=swap" rel="stylesheet"> <!-- Link to the Nata Sans font-->
+        <link rel="stylesheet" href="style.css"> <!-- Link to main CSS -->
     </head>
     <body>
         <p>Don't try to click the button!</p>
@@ -13,7 +16,9 @@
             <input id="dark-mode" type="checkbox" checked onchange="dark_mode()">
         </div>
         <hr>
-        <button onmouseenter="block()" onmouseleave="clearTimerOnMouseLeave()" onclick="after_click()">Don't Click Me</button>
+
+        <!-- the Don't Click Me button -->
+        <button class="round-btn" onmouseenter="block()" onmouseleave="clearTimerOnMouseLeave()" onclick="after_click()">Don't Click Me</button>
 
         <script src="script.js"></script> <!-- Link to JS -->
     </body>
