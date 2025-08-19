@@ -1,8 +1,8 @@
 # Hello!
 ---
-Hi! Glad you came here...
-But we moved every project out into seperate repos...
-Sorry 'bout that
+Hi!  
+Just to let you know that we moved every project into seperate repos  
+I apologize for that
 ---
 If you want to access projects, here are the links:
 
